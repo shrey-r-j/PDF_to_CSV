@@ -1,3 +1,3 @@
-Run the max_graph.py
+Run the main.py
 The test.pdf can be used to check whether the code functions properly
 
